@@ -1,4 +1,4 @@
-package com.example.iap
+package com.jatin.iap
 
 import io.flutter.embedding.android.FlutterActivity
 
